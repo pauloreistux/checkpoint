@@ -53,4 +53,4 @@ console.log(microondas.aquecer('pipoca',15))
 console.log(microondas.aquecer('macarrao',20))
 console.log(microondas.aquecer('brigadeiro',16))
 console.log(microondas.aquecer('carne',10))
-console.log(microondas.aquecer('feijao',50))
+console.log(microondas.aquecer('feijao',50))c
